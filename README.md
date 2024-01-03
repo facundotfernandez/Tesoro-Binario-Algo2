@@ -1,5 +1,5 @@
-# Tesoro-Binario-V2.0
-Desarrollo TP2 de la materia Algoritmos y Programación II, Cátedra Calvo, Curso 1, 2C23
+# Tesoro-Binario
+Desarrollo TP2 de la materia Algoritmos y Programación II, Cátedra Calvo, Curso 1, 2C23 (Versión grupal cursada)
 
 Los Trabajos Prácticos de la materia se basaron en el desarrollo e implementación de nuevas funcionalidades, del juego "Tesoro Binario".
 
